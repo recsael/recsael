@@ -50,7 +50,7 @@ I am eager to focus on one specific area, such as Back-End development or anythi
 ## 📚 Projects
 
 I recently worked on developing a hosting platform akin to AirBnB using React Native and Express.js, also leveraging IoT technology with Arduino IDE and Python for a real-time medical module.
-[Projecto](https://gitlab.com/0321101252/native)
+[Project](https://gitlab.com/0321101252/native)
 
 ## 📬 Contact Me
 
