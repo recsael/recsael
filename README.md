@@ -18,6 +18,7 @@ Mi objetivo profesional es concentrarme en un área específica, como el desarro
 ## 📚 Proyectos
 
 Recientemente trabajé en el desarrollo de una plataforma de alojamiento similar a AirBnB con React Native y Express.js, utilizando también la tecnología IoT con Arduino IDE y Python para un módulo médico en tiempo real.
+[Projecto](https://gitlab.com/0321101252/native)
 
 ## 📬 Contáctame
 
@@ -49,6 +50,7 @@ I am eager to focus on one specific area, such as Back-End development or anythi
 ## 📚 Projects
 
 I recently worked on developing a hosting platform akin to AirBnB using React Native and Express.js, also leveraging IoT technology with Arduino IDE and Python for a real-time medical module.
+[Projecto](https://gitlab.com/0321101252/native)
 
 ## 📬 Contact Me
 
