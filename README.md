@@ -1,4 +1,4 @@
-# Hola, soy Alan Misael Rendón Gurrola 👋
+# Hola, soy Alan 👋
 
 Estoy cursando la carrera de Tecnologías de la Información, especializándome en el Desarrollo de Software Multiplataforma. Actualmente poseo conocimientos en lenguajes como Java, PHP y JavaScript. He ganado experiencia utilizando frameworks como CodeIgniter, Laravel, Express.js y React Native (Expo).
 
